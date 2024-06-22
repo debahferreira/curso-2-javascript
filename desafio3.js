@@ -1,4 +1,4 @@
-/*let numero = 1;
+let numero = 1;
 while(numero<=10) {
     alert(numero);
     numero++;
@@ -14,4 +14,4 @@ let contagemRegressiva = prompt('Escolha um número para a contagem regressiva.'
 while(contagemRegressiva >= 0) {
     alert(contagemRegressiva);
     contagemRegressiva--;
-}*/
+}

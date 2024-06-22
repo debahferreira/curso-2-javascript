@@ -1,4 +1,4 @@
-/*let diaDaSemana = prompt('Qual é o dia da semana?');
+let diaDaSemana = prompt('Qual é o dia da semana?');
 if (diaDaSemana == 'Sábado') {
     alert('Bom fim de semana!');
 } else if(diaDaSemana == 'Domingo') {
@@ -14,4 +14,4 @@ if(numeroInteiro > 0) {
     alert(numeroInteiro + ' é negativo.');
 } else if(numeroInteiro == 0) {
     alert(numeroInteiro + ' não é nem positivo, nem negativo.');
-}*/
+}

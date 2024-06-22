@@ -1,4 +1,4 @@
-/*console.log('Boas vindas!');
+console.log('Boas vindas!');
 
 let nome = 'Deborah';
 console.log(`Olá, ${nome}!`);
@@ -21,6 +21,6 @@ let numero = 1;
 while(numero <= 10) {
     console.log(numero);
     numero++;
-}*/
+}
 
 console.log(parseInt(Math.random() * 1000 + 1));
