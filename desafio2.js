@@ -7,3 +7,11 @@ if (diaDaSemana == 'Sábado') {
     alert('Boa semana!');
 }
 
+let numeroInteiro = prompt('Digite um número inteiro.');
+if(numeroInteiro > 0) {
+    alert(numeroInteiro + ' é positivo.');
+} else if(numeroInteiro < 0) {
+    alert(numeroInteiro + ' é negativo.');
+} else if(numeroInteiro == 0) {
+    alert(numeroInteiro + ' não é nem positivo, nem negativo.');
+}
